@@ -19,7 +19,7 @@ These insights can assist AtliQ Hardwares in making informed financial decisions
 ### Fiscal Year 2019:
 
 1. **Net Sales Growth:** 
-   - AtliQ Hardwares experienced a substantial increase in net sales from 2019 to 2020, with a growth rate of 204.5%. This indicates a significant expansion of the company's sales during this period.
+   - AtliQ Hardwares experienced a substantial increase in net sales from 2019 to 2020, with a growth rate of 124.8%. This indicates a significant expansion of the company's sales during this period.
    
 2. **Cost of Goods Sold (COGS):** 
    - COGS also increased in line with net sales, demonstrating that the company was able to manage its costs effectively in response to higher sales.
