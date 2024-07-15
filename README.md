@@ -1,23 +1,16 @@
 # Excel Finance Analytics Project for AtliQ Hardwares
 
 ## Project Objective:
+    **1.** Create Profit and Loss (P&L) reports by _[Fiscal Year]
 
-1. Create a .
-2. Conduct a comprehensive comparison between market performance and sales targets.
+   **2.** Create Profit and Loss (P&L) reports by _[Markets]
 
-## Purpose of Sales Analytics
+- **Purpose of sales analytics:** Evaluation of financial performance, support decision-making, and facilitate communication with stakeholders.
 
-Empower businesses to monitor and evaluate their sales activities and performance.
+- **Importance of analyzing Finance data:** Aid in benchmarking against industry peers and previous periods Foundation for budgeting and forecasting.
 
-## Importance of Analyzing Sales Data
+- **Role of reports:** Align financial planning with strategic goals Instill confidence in the organization's financial outlook.
 
-Identify sales patterns and track key performance indicators (KPIs).
-
-## Role of Reports
-
-- Determine effective customer discounts.
-- Facilitate negotiations with consumers.
-- Identify potential business expansion opportunities in promising countries.
 
 ## Insight from Finance Analytics
 
